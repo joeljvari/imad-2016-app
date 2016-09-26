@@ -1,5 +1,5 @@
-var express = require('express');
-var morgan = require('morgan');
+var express = require('express'); //learning how to lisen to port or handil http connection
+var morgan = require('morgan'); //what requit coming to server and how it is founding
 var path = require('path');
 
 var app = express();
